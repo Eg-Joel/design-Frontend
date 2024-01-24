@@ -106,7 +106,7 @@ function Navbar() {
             textDecoration: 'none',
           }}
         >
-          LOGO
+          Landing
         </Typography>
         
         <Typography
@@ -125,7 +125,7 @@ function Navbar() {
             flexGrow: 1,
           }}
         >
-          LOGO
+          Landing
         </Typography>
         <Box sx={{ flexGrow: 0 }}>
         <Button variant="contained" sx={{ backgroundColor: '#111b47', color: 'white' }}>
